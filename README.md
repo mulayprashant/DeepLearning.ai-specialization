@@ -38,19 +38,6 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
   - [Week 4 - PA 1 - Art Generation with Neural Style Transfer](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C4%20-%20Convolutional%20Neural%20Networks/Week%204/Neural%20Style%20Transfer/Art_Generation_with_Neural_Style_Transfer.ipynb)    
   - [Week 4 - PA 2 - Face Recognition](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C4%20-%20Convolutional%20Neural%20Networks/Week%204/Face%20Recognition/Face_Recognition.ipynb)
   
-### Course 5: Sequence Models
-
-  - [Week 1 - PA 1 - Building a Recurrent Neural Network - Step by Step](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C5%20-%20Sequence%20Models/Week%201/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
-  - [Week 1 - PA 2 - Dinosaur Land -- Character-level Language Modeling](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C5%20-%20Sequence%20Models/Week%201/Dinosaur%20Island%20--%20Character-level%20language%20model/Dinosaurus_Island_Character_level_language_model.ipynb)
-  - [Week 1 - PA 3 - Jazz improvisation with LSTM](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C5%20-%20Sequence%20Models/Week%201/Jazz%20improvisation%20with%20LSTM/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4_Solution.ipynb)  
-  - [Week 2 - PA 1 - Word Vector Representation and Debiasing](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C5%20-%20Sequence%20Models/Week%202/Word%20Vector%20Representation/Operations_on_word_vectors_v2a.ipynb)  
-  - [Week 2 - PA 2 - Emojify!](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C5%20-%20Sequence%20Models/Week%202/Emojify/Emoji_v3a.ipynb)  
-  - [Week 3 - PA 1 - Neural Machine Translation with Attention](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C5%20-%20Sequence%20Models/Week%203/Machine%20Translation/Neural_machine_translation_with_attention_v4a.ipynb)  
-  - [Week 3 - PA 2 - Trigger Word Detection](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C5%20-%20Sequence%20Models/Week%203/Trigger%20word%20detection/Trigger_word_detection_v2a.ipynb)
-  - [Week 4 - PA 1 - Transformer Network](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C5%20-%20Sequence%20Models/Week%204/Transformer%20Subclass/C5_W4_A1_Transformer_Subclass_v1.ipynb)  
-  - [Week 3 - PA 2 - Transformer Network Application: Named-Entity Recognition](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C5%20-%20Sequence%20Models/Week%203/Named%20Entity%20Recognition/Transformer_application_Named_Entity_Recognition.ipynb)   
-  - [Week 3 - PA 2 - Transformer Network Application: Question Answering](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C5%20-%20Sequence%20Models/Week%203/Question%20Answering/QA_transformer.ipynb) 
-  
 ## Quiz Solutions
 
 ### Course 1: Neural Networks and Deep Learning
@@ -78,11 +65,6 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
   - Week 3 Quiz - Detection algorithms: [Text](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C4%20-%20Convolutional%20Neural%20Networks/Week%203/Week%203%20Quiz%20-%20Detection%20algorithms.md) | [PDF](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C4%20-%20Convolutional%20Neural%20Networks/Week%203/Week%203%20Quiz%20-%20Detection%20algorithms.pdf)
   - Week 4 Quiz - Special applications: Face recognition & Neural style transfer: [Text](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C4%20-%20Convolutional%20Neural%20Networks/Week%204/Week%204%20Quiz%20-%20Special%20applications%20Face%20Recognition%20and%20Neural%20Style%20Transfer.md) | [PDF](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C4%20-%20Convolutional%20Neural%20Networks/Week%204/Week%204%20Quiz%20-%20Special%20applications%20Face%20Recognition%20and%20Neural%20Style%20Transfer.pdf)
 
-### Course 5: Sequence Models
-
-  - Week 1 Quiz - Recurrent Neural Networks: [Text](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C5%20-%20Sequence%20Models/Week%201/Week%201%20Quiz%20-%20Recurrent%20Neural%20Networks.md) | [PDF](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C5%20-%20Sequence%20Models/Week%201/Week%201%20Quiz%20-%20Recurrent%20Neural%20Networks.pdf)
-  - Week 2 Quiz - Natural Language Processing & Word Embeddings: [PDF](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C5%20-%20Sequence%20Models/Week%202/Week%202%20Quiz%20-%20Natural%20Language%20Processing%20%26%20Word%20Embeddings.pdf)
-  - Week 3 Quiz - Sequence models & Attention mechanism: [Text](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C5%20-%20Sequence%20Models/Week%203/Week%203%20Quiz%20-%20Sequence%20models%20%26%20Attention%20mechanisms.md) | [PDF](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C5%20-%20Sequence%20Models/Week%203/Week%203%20Quiz%20-%20Sequence%20models%20%26%20Attention%20mechanisms.pdf)
 
 ## Advise
 
